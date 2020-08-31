@@ -8,4 +8,5 @@ area = sida**2
 
 omkrets = 4*sida
 
+# utskrift
 print(f"kvadratens area är {area} a.e. och kvadratens omkrets är {omkrets} l.e.")
