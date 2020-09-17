@@ -1,6 +1,9 @@
 body {
-    background-color: green;
+    background-color: rgb(151, 243, 255);
     font-family: "Courier New", Courier, monospace
+}
+
+#banner{
 }
 
 p {
