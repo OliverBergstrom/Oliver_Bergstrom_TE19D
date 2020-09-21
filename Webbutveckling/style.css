@@ -4,8 +4,49 @@ body {
 }
 
 #banner{
+    border: 1px solid black;
+    width: auto;
+    height: 200px;
+    position: relative;
+    background-color: gray;
+}
+
+#buttons{
+    width: 700px;
+    height: 100%;
+    margin: 0 auto;
+    border: 1px solid white;
+    border-bottom-width: 1px;
+    padding: 15px 32px;
+    background-color: greenyellow;
+}
+div {
+    box-sizing: border-box;
+}
+
+div.page{
+    width: 25%;
+    height: 100%;
+    border: 1px solid black;
+    border-bottom-width: 1px;
+    background-color: solid saddlebrown;
+    float: left;
+}
+
+#content {
+    margin: 0 auto;
+    height: auto;
+    width: 650px;
+    background-color: springgreen;
+    border: 2px solid purple;
+    border-top-width: 0px;
+    padding: 5px;
 }
 
 p {
     font-style: italic
+}
+
+#me{
+    
 }
