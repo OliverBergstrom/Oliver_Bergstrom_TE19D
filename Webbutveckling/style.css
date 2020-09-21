@@ -19,6 +19,7 @@ body {
     border-bottom-width: 1px;
     padding: 15px 32px;
     background-color: greenyellow;
+    text-align: center;
 }
 div {
     box-sizing: border-box;
@@ -31,6 +32,10 @@ div.page{
     border-bottom-width: 1px;
     background-color: solid saddlebrown;
     float: left;
+    display:flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+    cursor: pointer;
 }
 
 #content {
@@ -47,6 +52,6 @@ p {
     font-style: italic
 }
 
-#me{
-    
+#Kronk {
+    width:636px;
 }
