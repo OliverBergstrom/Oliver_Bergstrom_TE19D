@@ -30,7 +30,7 @@ div.page{
     height: 100%;
     border: 1px solid black;
     border-bottom-width: 1px;
-    background-color: solid saddlebrown;
+    background-color: solid yellow;
     float: left;
     display:flex;
     justify-content: center; /* align horizontal */
