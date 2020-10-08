@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+
+.item{
+    flex-grow: 1;
+    height: 100px;
+
+    border-radius: 3px;
+    background-color: tomato;
+    border: 1px solid ;
+}
+
+.item + .item {
+    margin-left: 2%;
+}
