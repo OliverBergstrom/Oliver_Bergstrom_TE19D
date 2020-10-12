@@ -3,14 +3,38 @@
 }
 
 .item{
-    flex-grow: 1;
     height: 100px;
+    width: 100px;
 
     border-radius: 3px;
     background-color: tomato;
     border: 1px solid ;
+    text-align: center ;
+    box-shadow: 5px 10px black;
+}
+
+.item-center{
+    flex-grow: 1;
+    border-radius: 3px;
+    background-color: tomato;
+    border: 1px solid ;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 5px 10px black;
 }
 
 .item + .item {
     margin-left: 2%;
+}
+
+.content {
+    background-color: gray;
+    border: 1px solid;
+    text-align: center;
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 800px;
+    box-shadow: 5px 10px black;
 }
