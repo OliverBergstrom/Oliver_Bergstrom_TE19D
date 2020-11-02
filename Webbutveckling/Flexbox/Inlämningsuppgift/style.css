@@ -1,0 +1,51 @@
+body {
+    background-color: maroon;
+}
+
+.container {
+    display: flex;
+}
+
+.product1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: darkslategray;
+    border: 1px solid black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.highlight {
+    flex-grow: 1;
+    border-radius: 3px;
+    background-color: darkslategray;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 100px;
+    font-family: Verdana;
+}
+
+.product2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 3px;
+    background-color: darkslategray;
+    border: 1px solid black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.product1 + .product2 {
+    margin-left: 2%;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.product1 {
+    
+}
