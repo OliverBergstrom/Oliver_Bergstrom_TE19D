@@ -1,5 +1,10 @@
 body {
     background-color: maroon;
+    background-image: url(https://media4.giphy.com/media/FnatKdwxRxpVC/200.gif);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: 100%;
+    justify-content: center;
 }
 
 .container {
@@ -14,6 +19,10 @@ body {
     border: 1px solid black;
     text-align: center;
     font-family: Verdana;
+    color: cornsilk;
+    background-image: url(https://media4.giphy.com/media/hvGKQL8lasDvIlWRBC/giphy.gif);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .highlight {
@@ -26,6 +35,12 @@ body {
     margin-right: 2%;
     height: 100px;
     font-family: Verdana;
+    color: cornsilk;
+    background-repeat: no-repeat;
+    background-image: url(https://media.tenor.com/images/60107fd84057568b5028d0970a6663cc/tenor.gif);
+    background-position-x: center;
+    justify-content: center;
+    background-size: 1050px 100px;
 }
 
 .product2 {
@@ -36,6 +51,10 @@ body {
     border: 1px solid black;
     text-align: center;
     font-family: Verdana;
+    color: cornsilk;
+    background-image: url(https://media4.giphy.com/media/hvGKQL8lasDvIlWRBC/giphy.gif);
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .product1 + .product2 {
@@ -44,8 +63,4 @@ body {
 
 a:active {
     text-decoration: none;
-}
-
-.product1 {
-    
 }
