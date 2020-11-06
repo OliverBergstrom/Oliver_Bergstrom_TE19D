@@ -1,9 +1,9 @@
 body {
     background-color: maroon;
-    background-image: url(https://media4.giphy.com/media/FnatKdwxRxpVC/200.gif);
+    background-image: url(https://thumbs.gfycat.com/FinishedGreenBarracuda-size_restricted.gif);
     background-repeat: no-repeat;
     background-position-x: center;
-    background-size: 100%;
+    background-size: 1800px;
     justify-content: center;
 }
 
@@ -20,7 +20,7 @@ body {
     text-align: center;
     font-family: Verdana;
     color: cornsilk;
-    background-image: url(https://media4.giphy.com/media/hvGKQL8lasDvIlWRBC/giphy.gif);
+    background-image: url(https://media4.giphy.com/media/3oKIPwoeGErMmaI43S/200.gif);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -37,13 +37,13 @@ body {
     font-family: Verdana;
     color: cornsilk;
     background-repeat: no-repeat;
-    background-image: url(https://media.tenor.com/images/60107fd84057568b5028d0970a6663cc/tenor.gif);
+    background-image: url(https://svd.vgc.no/v2/images/af013f58-c354-4a8a-adc0-78b0d857770e?fit=crop&h=427&q=80&upscale=true&w=640&s=ce42fcb8cd3de146c55ffe0847fa8457fa05608c);
     background-position-x: center;
     justify-content: center;
     background-size: 1050px 100px;
 }
 
-.product2 {
+.top {
     height: 100px;
     width: 100px;
     border-radius: 3px;
@@ -57,7 +57,36 @@ body {
     background-repeat: no-repeat;
 }
 
-.product1 + .product2 {
+.content {
+    border-radius: 3px;
+    border: 1px solid black;
+    background-color: lightcoral;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    flex-grow: 1%;
+    font-size: 170%;
+    font-style: italic;
+}
+
+.content2 {
+    border-radius: 3px;
+    border: 1px solid black;
+    background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1192,w_2121,x_0,y_111/f_auto,q_auto,w_1100/v1554932305/shape/mentalfloss/19470-istock-460140985.jpg);
+    flex-grow: 1%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    background-position: center;
+    height: 450px;
+    background-repeat: no-repeat;
+
+}
+
+.product1 + .top {
     margin-left: 2%;
 }
 
