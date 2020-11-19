@@ -89,6 +89,21 @@ body {
 
 }
 
+.main {
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    margin-bottom: 2%;
+    background-image: url(Skärmbild\ 2020-11-19\ 171449.png);
+    background-repeat: no-repeat;
+    flex-grow: 1%;
+    background-position: center;
+    text-align: center;
+    color: cornsilk;
+    background-color: crimson;
+    display: flex;
+}
+
 .product1 + .top {
     margin-left: 2%;
 }
@@ -120,5 +135,4 @@ footer {
     display: block;
     padding: 3px;
     color:black;
-    margin-top: 10%;
 }
