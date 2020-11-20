@@ -66,6 +66,13 @@ body {
     font-size: 35px;
 }
 
+.col-sm-4 {
+    background-color: crimson;
+    margin-top: 1%;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+
 /* Element */
 
 a {
@@ -81,14 +88,18 @@ a:active {
     text-decoration: underline;
 }
 
-.item1 :hover {
+.item1:hover {
     background-image: url(https://media1.giphy.com/media/MBNgMB6miNesE/100.webp?cid=ecf05e474ceanj9yflfyjv0li22rkh911c7jr65rqndi0v2u&rid=100.webp);
     background-position-y: center;
     background-position-x: center;
 }
 
-.item2 :hover {
+.item2:hover {
     background-image: url(https://media1.giphy.com/media/MBNgMB6miNesE/100.webp?cid=ecf05e474ceanj9yflfyjv0li22rkh911c7jr65rqndi0v2u&rid=100.webp);
     background-position-y: center;
     background-position-x: center;
+}
+
+.col-sm-4:hover {
+    background-image: url(https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175);
 }
