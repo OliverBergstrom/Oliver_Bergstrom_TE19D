@@ -1,0 +1,17 @@
+.container {
+    border: 1px solid black;
+}
+
+a {
+    color: blueviolet;
+}
+
+.button-oliver {
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+.button-göran {
+    background-color: cadetblue;
+    font-family: cursive;
+}
