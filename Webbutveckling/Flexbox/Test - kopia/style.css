@@ -1,12 +1,11 @@
+
 body {
     background-color: darkkhaki;
-    background-image: url(https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .container{
     display: flex;
+    background-color: darkkhaki;
 }
 
 .container-2 {
@@ -23,11 +22,6 @@ body {
     text-align: center;
     box-shadow: 5px 10px black;
     font-family: cursive;
-    background-image: url(https://images-na.ssl-images-amazon.com/images/I/31qu4ixHZ3L._SY355_.jpg);
-    background-position: center;
-    background-size: cover;
-    text-decoration: black;
-    font-size: larger;
 }
 
 .item2{
@@ -40,11 +34,6 @@ body {
     text-align: center;
     box-shadow: 5px 10px black;
     font-family: cursive;
-    background-image: url(https://images-na.ssl-images-amazon.com/images/I/31qu4ixHZ3L._SY355_.jpg);
-    background-position: center;
-    background-size: cover;
-    text-decoration: black;
-    font-size: larger;
 }
 
 .center{
@@ -59,10 +48,6 @@ body {
     box-shadow: 5px 10px black;
     height: 100px;
     font-family: cursive;
-    background-image: url(Skärmbild\ 2020-11-21\ 003038.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    font-size: xx-large;
 }
 
 .item + .item {
@@ -71,7 +56,7 @@ body {
 
 .content {
     background-color: gray;
-    border: 1px solid black;
+    border: 1px solid;
     text-align: center;
     margin-top: 2%;
     margin-left: 11%;
@@ -79,11 +64,6 @@ body {
     height: 400px;
     box-shadow: 5px 10px black;
     font-size: 35px;
-    font-family: "Helvetica", sans-serif;
-    background-image: url(Flamingo.gif);
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: wheat;
 }
 
 .col-sm-4 {
@@ -91,33 +71,6 @@ body {
     margin-top: 1%;
     border: 2px solid black;
     border-radius: 3%;
-}
-
-.container-fluid {
-    background-color: crimson;
-    border: 2px solid black;
-    border-radius: 3%;
-    margin-top: 1%;
-}
-
-.container3{
-    display: flex;
-    background-color: crimson;
-    border-radius: 3%;
-    border: 1px solid black;
-    margin-left: 5%;
-    margin-right: 5%;
-    justify-content: center;
-    
-}
-
-footer {
-    background-color: grey;
-    justify-content: center;
-    text-align: center;
-    color: blanchedalmond;
-    border: 1px solid black;
-    margin-top: 36%;
 }
 
 /* Element */
@@ -129,12 +82,6 @@ a {
 
 a:link {
     text-decoration: none;
-    color: black
-}
-
-a:visited {
-    text-decoration: none;
-    color: black 
 }
 
 a:active {
@@ -145,17 +92,14 @@ a:active {
     background-image: url(https://media1.giphy.com/media/MBNgMB6miNesE/100.webp?cid=ecf05e474ceanj9yflfyjv0li22rkh911c7jr65rqndi0v2u&rid=100.webp);
     background-position-y: center;
     background-position-x: center;
-    background-repeat: no-repeat;
 }
 
 .item2:hover {
     background-image: url(https://media1.giphy.com/media/MBNgMB6miNesE/100.webp?cid=ecf05e474ceanj9yflfyjv0li22rkh911c7jr65rqndi0v2u&rid=100.webp);
     background-position-y: center;
     background-position-x: center;
-    background-repeat: no-repeat;
 }
 
 .col-sm-4:hover {
     background-image: url(https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175);
-    background-repeat: no-repeat;
 }
