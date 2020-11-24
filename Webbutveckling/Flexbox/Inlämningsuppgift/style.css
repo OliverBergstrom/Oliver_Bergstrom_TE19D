@@ -5,10 +5,12 @@ body {
     background-position-x: center;
     background-size: 1800px;
     justify-content: center;
+    background-size: cover;
 }
 
 .container {
     display: flex;
+    background-size: cover;
 }
 
 .product1 {
@@ -24,6 +26,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     font-size: 20px;
+    background-size: cover;
 }
 
 .highlight {
@@ -43,6 +46,7 @@ body {
     justify-content: center;
     background-size: 1050px 100px;
     font-size: 20px;
+    background-size: cover;
 }
 
 .top {
@@ -58,6 +62,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     font-size: 20px;
+    background-size: cover;
 }
 
 .content {
@@ -72,6 +77,7 @@ body {
     flex-grow: 1%;
     font-size: 170%;
     font-style: italic;
+    background-size: cover;
 }
 
 .content2 {
@@ -86,7 +92,7 @@ body {
     background-position: center;
     height: 450px;
     background-repeat: no-repeat;
-
+    background-size: cover;
 }
 
 .main {
@@ -102,6 +108,7 @@ body {
     color: cornsilk;
     background-color: crimson;
     display: flex;
+    background-size: cover;
 }
 
 .product1 + .top {
