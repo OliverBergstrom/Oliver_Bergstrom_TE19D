@@ -1,27 +1,27 @@
-"Befolkningen 16+ år efter sysselsättning, ålder, kön och år",,,
-,,,
-sysselsättning,ålder,kön,2019
-förvärvsarbetande,16-19 år,män,58826
-förvärvsarbetande,16-19 år,kvinnor,72847
-förvärvsarbetande,20-24 år,män,192696
-förvärvsarbetande,20-24 år,kvinnor,174074
-förvärvsarbetande,25-29 år,män,293352
-förvärvsarbetande,25-29 år,kvinnor,268587
-förvärvsarbetande,30-34 år,män,303019
-förvärvsarbetande,30-34 år,kvinnor,271975
-förvärvsarbetande,35-39 år,män,280522
-förvärvsarbetande,35-39 år,kvinnor,255391
-förvärvsarbetande,40-44 år,män,275085
-förvärvsarbetande,40-44 år,kvinnor,260093
-ej förvärvsarbetande,16-19 år,män,176860
-ej förvärvsarbetande,16-19 år,kvinnor,143432
-ej förvärvsarbetande,20-24 år,män,117928
-ej förvärvsarbetande,20-24 år,kvinnor,103001
-ej förvärvsarbetande,25-29 år,män,86633
-ej förvärvsarbetande,25-29 år,kvinnor,91124
-ej förvärvsarbetande,30-34 år,män,64162
-ej förvärvsarbetande,30-34 år,kvinnor,76735
-ej förvärvsarbetande,35-39 år,män,53373
-ej förvärvsarbetande,35-39 år,kvinnor,61312
-ej förvärvsarbetande,40-44 år,män,46857
-ej förvärvsarbetande,40-44 år,kvinnor,49228
+"Befolkningen 16+ �r efter syssels�ttning, �lder, k�n och �r"
+
+"syssels�ttning","�lder","k�n","2019"
+"f�rv�rvsarbetande","16-19 �r","m�n",58826
+"f�rv�rvsarbetande","16-19 �r","kvinnor",72847
+"f�rv�rvsarbetande","20-24 �r","m�n",192696
+"f�rv�rvsarbetande","20-24 �r","kvinnor",174074
+"f�rv�rvsarbetande","25-29 �r","m�n",293352
+"f�rv�rvsarbetande","25-29 �r","kvinnor",268587
+"f�rv�rvsarbetande","30-34 �r","m�n",303019
+"f�rv�rvsarbetande","30-34 �r","kvinnor",271975
+"f�rv�rvsarbetande","35-39 �r","m�n",280522
+"f�rv�rvsarbetande","35-39 �r","kvinnor",255391
+"f�rv�rvsarbetande","40-44 �r","m�n",275085
+"f�rv�rvsarbetande","40-44 �r","kvinnor",260093
+"ej f�rv�rvsarbetande","16-19 �r","m�n",176860
+"ej f�rv�rvsarbetande","16-19 �r","kvinnor",143432
+"ej f�rv�rvsarbetande","20-24 �r","m�n",117928
+"ej f�rv�rvsarbetande","20-24 �r","kvinnor",103001
+"ej f�rv�rvsarbetande","25-29 �r","m�n",86633
+"ej f�rv�rvsarbetande","25-29 �r","kvinnor",91124
+"ej f�rv�rvsarbetande","30-34 �r","m�n",64162
+"ej f�rv�rvsarbetande","30-34 �r","kvinnor",76735
+"ej f�rv�rvsarbetande","35-39 �r","m�n",53373
+"ej f�rv�rvsarbetande","35-39 �r","kvinnor",61312
+"ej f�rv�rvsarbetande","40-44 �r","m�n",46857
+"ej f�rv�rvsarbetande","40-44 �r","kvinnor",49228
